@@ -14,7 +14,7 @@
 
 * 단어의 의미를 임베딩 모델(SBERT)을 통해 뽑아내고 토픽 분석을 하는 계열
   
-Sentence BERT, SBERT - https://wikidocs.net/156176
+참고) Sentence BERT, SBERT - https://wikidocs.net/156176
 
 4. BERTopic 영어 실습 - https://wikidocs.net/162076
 
