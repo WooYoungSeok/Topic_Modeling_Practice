@@ -1,4 +1,4 @@
-# Topic_Modeling_Practice
+# Text Summary & Topic Modeling Practice
 
 ## References
 * 텍스트 요약문 생성
